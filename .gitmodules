@@ -1,3 +1,6 @@
 [submodule "viact-auth"]
 	path = viact-auth
 	url = https://github.com/minhducn14/viact-auth.git
+[submodule "viact-frontend"]
+	path = viact-frontend
+	url = https://github.com/minhducn14/viact-frontend.git
