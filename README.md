@@ -10,9 +10,10 @@ This project is a full-stack clone of [dev.viact.net](https://dev.viact.net), pr
     └── README.md
 
 ## 📌 GitHub Links
-FE: [https://github.com/minhducn14/viact-frontend.git](https://github.com/minhducn14/viact-frontend.git)
-
-BE: [https://github.com/minhducn14/viact-auth.git](https://github.com/minhducn14/viact-auth.git)
+**FE: [https://github.com/minhducn14/viact-frontend.git](https://github.com/minhducn14/viact-frontend.git)
+**
+**BE: [https://github.com/minhducn14/viact-auth.git](https://github.com/minhducn14/viact-auth.git)
+**
 ---
 
 ## 🔧 Tech Stack
