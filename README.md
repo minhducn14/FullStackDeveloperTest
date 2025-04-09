@@ -3,14 +3,15 @@
 This project is a full-stack clone of [dev.viact.net](https://dev.viact.net), providing user authentication via **email/password** and **Google Login**.
 
 ## 📁 Project Structure
-.
-├── viact-frontend/                 # Frontend: React + Material UI + Vite + TypeScript 
-├── viact-auth/                     # Backend: NestJS + MySQL + TypeORM + JWT 
-├── docker-compose.yml
-└── README.md
+    .
+    ├── viact-frontend/                 # Frontend: React + Material UI + Vite + TypeScript 
+    ├── viact-auth/                     # Backend: NestJS + MySQL + TypeORM + JWT 
+    ├── docker-compose.yml
+    └── README.md
 
-## Link GitHub for project 
+## 📌 GitHub Links
 FE: [https://github.com/minhducn14/viact-frontend.git](https://github.com/minhducn14/viact-frontend.git)
+
 BE: [https://github.com/minhducn14/viact-auth.git](https://github.com/minhducn14/viact-auth.git)
 ---
 
