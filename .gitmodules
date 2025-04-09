@@ -1,0 +1,3 @@
+[submodule "viact-auth"]
+	path = viact-auth
+	url = https://github.com/minhducn14/viact-auth.git
