@@ -57,7 +57,7 @@ This project is a full-stack clone of [dev.viact.net](https://dev.viact.net), pr
 
 ```bash
 # Step 1: Clone the repo
-git clone https://github.com/minhducn14/FullStackDeveloperTest
+git clone https://github.com/minhducn14/FullStackDeveloperTest.git
 
 # Step 2: Build & run containers
 docker-compose up --build
